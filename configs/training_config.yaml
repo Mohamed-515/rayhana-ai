@@ -1,0 +1,8 @@
+project_name: rayhana-ai
+phase_1_model: yolov8n
+phase_1_task: basil disease localization
+epochs: 50
+image_size: 640
+batch_size: 16
+device: auto
+seed: 42

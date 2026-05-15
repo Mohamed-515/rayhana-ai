@@ -1,0 +1,13 @@
+ultralytics
+datasets
+pillow
+pandas
+matplotlib
+scikit-learn
+tqdm
+pyyaml
+opencv-python
+numpy
+jupyter
+faiss-cpu
+sentence-transformers
